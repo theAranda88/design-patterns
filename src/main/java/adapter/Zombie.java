@@ -1,7 +1,5 @@
 package adapter;
 
-import javax.swing.plaf.PanelUI;
-
 public class Zombie {
 
     public void bite(){
